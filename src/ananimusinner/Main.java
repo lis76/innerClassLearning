@@ -26,10 +26,7 @@ public class Main {
 
         generaIndicatorMonitoringModule.startMonitoring();
         errorMonitoringModule.startMonitoring();
-        securityModule.startMonitoring();.
-
-
-        Scanner in = new Scanner(System.in){};
+        securityModule.startMonitoring();
 
 
 
